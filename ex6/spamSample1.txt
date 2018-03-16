@@ -1,0 +1,6 @@
+Now that you've trained the spam classifier, you can use it on your own
+emails! In the starter code, we have included spamSample1.txt,
+spamSample2.txt, emailSample1.txt and emailSample2.txt as examples. 
+The following code reads in one of these emails and then uses your 
+learned SVM classifier to determine whether the email is Spam or 
+Not Spam
